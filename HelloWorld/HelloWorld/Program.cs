@@ -46,6 +46,13 @@ namespace HelloWorld
             Console.ReadLine();
             Console.Write("İyi Günler"); 
             #endregion
+
+            #region StringDegiskenTipi
+             //  Degisken = Veri  -> atama operatörü sagdakiyi veriyi soldaki degiskene atar
+            string name;
+            name = "asaf";
+            Console.WriteLine(name); 
+            #endregion
         }
     }
 }
