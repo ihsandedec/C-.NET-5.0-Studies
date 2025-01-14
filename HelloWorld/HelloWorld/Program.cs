@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿﻿﻿using System;
 using System.Xml.Linq;
 
 namespace HelloWorld
@@ -142,6 +142,7 @@ namespace HelloWorld
 
             // kısa kenar 10  uzun kenarı 17 cm olam dikdiörtgen alanı nedir ?
 
+            /*
             double shortEdge = 10;
             double longtEdge = 17;
             double area = shortEdge * longtEdge;
@@ -156,7 +157,28 @@ namespace HelloWorld
             //number = 5 * 5;
             //number *= 5;
             //number += 5;
-            Console.WriteLine(number); 
+            Console.WriteLine(number);
+            */
+            #endregion
+
+            #region Mantiksal Operatörler
+            // Mantıksal Operatörler
+            // == , <> , <= , >=
+
+            //Console.Write("5 ile 7 eşitmi?");
+            //Console.WriteLine(5 == 7);
+            //Console.Write("4 büyükmü 8 den?");
+            //Console.WriteLine(4 > 8); 
+            //Console.Write("9 <= 9"); 
+            //Console.WriteLine(9 <= 9);
+
+            // soru: metinsel bir sayı tanımlayalım. consol ekranında bunu bilmeye çalışalım. bilirsek true bilemezsek false yazalım
+            
+            Console.Write("Bir sayi tahmin ediniz : ");
+            string secretNumber = "18";
+            string number = Console.ReadLine();
+            Console.Write("Tahmin sonucu : ");
+            Console.WriteLine(secretNumber == number); 
             #endregion
 
         }
