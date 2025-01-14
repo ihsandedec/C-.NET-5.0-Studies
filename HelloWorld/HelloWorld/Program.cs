@@ -53,6 +53,25 @@ namespace HelloWorld
             name = "asaf";
             Console.WriteLine(name); 
             #endregion
+
+             #region  ReadLine komutu ile kullanicidan input alma
+            /*
+            string name = Console.ReadLine();
+            Console.Write(name);
+            */
+            /*
+                UYGULAMA
+                kullanıcıdan isim alinacak.
+                kullanici soyismi alinacak .
+                ekrana hoşgeldin ismi soyismi yazilacak.
+            */
+            string name, last_name;
+            Console.Write("isminizi giriniz: ");
+            name = Console.ReadLine();
+            Console.Write("Soyisminizi giriniz: ");
+            last_name = Console.ReadLine();
+            Console.WriteLine("Hoşgeldin " + name + " " + last_name);
+            #endregion
         }
     }
 }
