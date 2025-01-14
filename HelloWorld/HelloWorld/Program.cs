@@ -17,7 +17,7 @@ namespace HelloWorld
 
             #region Console.Write,WriteLine,Read,ReadKey
             
-              Console.Write("Benim adim: ");  //  Console.Write alt satıra geçmez 
+             /* Console.Write("Benim adim: ");  //  Console.Write alt satıra geçmez 
                Console.WriteLine("ihsan");    //  Console.WriteLine alt  satıra geçer.
                Console.Write("Soyadim: ");
                Console.WriteLine("dedeç");
@@ -31,7 +31,20 @@ namespace HelloWorld
                Console.WriteLine("deneme, ");
                Console.WriteLine("deneme01, ");
                Console.WriteLine("deneme02, ");
+               */
               
+            #endregion
+
+             #region Uygulama
+            // Console.ReadLine();
+            /* isminiz ne? diye sorulacak. aynı satıra adı yazılacak.
+            bir alt satıra geçilecek. Soyadınız ne? diye sorulacak. ve aynı satıra yazılacak. bir alt satıra inilerek ekranda iyi günler yazılacak.
+            */
+            Console.Write("İsminiz Ney?");
+            Console.ReadLine();
+            Console.Write("Soyadınız Ney?");
+            Console.ReadLine();
+            Console.Write("İyi Günler"); 
             #endregion
         }
     }
