@@ -173,12 +173,45 @@ namespace HelloWorld
             //Console.WriteLine(9 <= 9);
 
             // soru: metinsel bir sayı tanımlayalım. consol ekranında bunu bilmeye çalışalım. bilirsek true bilemezsek false yazalım
-            
-            Console.Write("Bir sayi tahmin ediniz : ");
-            string secretNumber = "18";
-            string number = Console.ReadLine();
-            Console.Write("Tahmin sonucu : ");
-            Console.WriteLine(secretNumber == number); 
+
+            //Console.Write("Bir sayi tahmin ediniz : ");
+            //string secretNumber = "18";
+            //string number = Console.ReadLine();
+            //Console.Write("Tahmin sonucu : ");
+            //Console.WriteLine(secretNumber == number);
+            #endregion
+
+
+            #region Arttırma ve Azaltma Kullanimi
+            int number = 5;
+            number = number + 1;
+            Console.WriteLine(number);
+
+            int number02 = 10;
+            number02 += 1;
+            Console.WriteLine(number02);
+
+            int number03 = 20;
+            Console.WriteLine(number03 + 1);
+            Console.WriteLine(number03);
+
+            Console.WriteLine("******************************");
+
+            Console.WriteLine(++number03);      //degiskenimizin içine yazar
+            Console.WriteLine(number03);
+
+            Console.WriteLine("******************************");
+
+            Console.WriteLine(number03);
+            Console.WriteLine(number03++);
+            Console.WriteLine(number03);
+
+            Console.WriteLine("******************************");
+            int number04 = 5;
+            Console.WriteLine(1 + number04);    //sadece veriye 1 ekledik 
+            Console.WriteLine(++number04);      //degiskene de 1 ekledik 
+            Console.WriteLine(number04--);     // degisken 5 oldu 
+            Console.WriteLine(number04); 
             #endregion
 
         }
