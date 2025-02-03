@@ -183,36 +183,94 @@ namespace HelloWorld
 
 
             #region Arttırma ve Azaltma Kullanimi
-            int number = 5;
-            number = number + 1;
-            Console.WriteLine(number);
+            //int number = 5;
+            //number = number + 1;
+            //Console.WriteLine(number);
 
-            int number02 = 10;
-            number02 += 1;
-            Console.WriteLine(number02);
+            //int number02 = 10;
+            //number02 += 1;
+            //Console.WriteLine(number02);
 
-            int number03 = 20;
-            Console.WriteLine(number03 + 1);
-            Console.WriteLine(number03);
+            //int number03 = 20;
+            //Console.WriteLine(number03 + 1);
+            //Console.WriteLine(number03);
 
-            Console.WriteLine("******************************");
+            //Console.WriteLine("******************************");
 
-            Console.WriteLine(++number03);      //degiskenimizin içine yazar
-            Console.WriteLine(number03);
+            //Console.WriteLine(++number03);      //degiskenimizin içine yazar
+            //Console.WriteLine(number03);
 
-            Console.WriteLine("******************************");
+            //Console.WriteLine("******************************");
 
-            Console.WriteLine(number03);
-            Console.WriteLine(number03++);
-            Console.WriteLine(number03);
+            //Console.WriteLine(number03);
+            //Console.WriteLine(number03++);
+            //Console.WriteLine(number03);
 
-            Console.WriteLine("******************************");
-            int number04 = 5;
-            Console.WriteLine(1 + number04);    //sadece veriye 1 ekledik 
-            Console.WriteLine(++number04);      //degiskene de 1 ekledik 
-            Console.WriteLine(number04--);     // degisken 5 oldu 
-            Console.WriteLine(number04); 
+            //Console.WriteLine("******************************");
+            //int number04 = 5;
+            //Console.WriteLine(1 + number04);    //sadece veriye 1 ekledik 
+            //Console.WriteLine(++number04);      //degiskene de 1 ekledik 
+            //Console.WriteLine(number04--);     // degisken 5 oldu 
+            //Console.WriteLine(number04); 
             #endregion
+
+            #region Ve-Veya Operatörleri
+
+            /*
+               ve sembolu    &&
+               veya sembolü  ||
+
+               x > 5 && x < 10 
+               true && true -> true 
+               true && false -> false 
+
+               x > 50 && x == 10 
+               true && false -> true 
+
+               Görev 1 :
+               *Girilen sayı 50 ile 60 arasında olan 5 in katlarından biri veya 3 ün katlarından
+                biri ise ekrana true yazdırın değilse false yazdıran uygulamayı yazınız.
+
+               int x = 55;
+
+               if ((x > 50 && x < 60) && (x % 5 == 0 || x % 3 == 0)) {
+
+                   Console.WriteLine("True");
+               }
+               else 
+                   Console.WriteLine("False");
+
+               Görev 2 :
+               kullanici adi , email ve sifre degiskenlerimiz olacak. Bunlara baslangicta deger atayın
+               Sonra kullanicidan isim isteyin. kullanici adi veya email yazilabilir.ikiside kabul edilecek.
+               Sonra sifre isteyin.
+               kullanici adi veya email adresi dogruysa ve şifresi dogruysa ekranda true yazsın.
+
+
+               */
+            string name = "ihsan";
+            string email = "ihsan@gmail.com";
+            string password = "123";
+
+            Console.Write("Kullanıcı adi giriniz : ");
+            string inputName = Console.ReadLine();
+
+            Console.Write("Email giriniz : ");
+            string inputEmail = Console.ReadLine();
+
+            Console.Write("Şifre giriniz : ");
+            string inputPassword = Console.ReadLine();
+
+            if ((name == inputName || email == inputEmail) && (password == inputPassword)) {
+                Console.WriteLine("True");
+            }
+            else
+                Console.WriteLine("False");
+
+            #endregion
+
+
+
 
         }
     }
