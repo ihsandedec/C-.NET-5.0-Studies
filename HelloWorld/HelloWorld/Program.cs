@@ -1,4 +1,5 @@
 ﻿﻿﻿using System;
+using System.Text.RegularExpressions;
 using System.Xml.Linq;
 
 namespace HelloWorld
@@ -195,18 +196,18 @@ namespace HelloWorld
             //Console.WriteLine(number03 + 1);
             //Console.WriteLine(number03);
 
-            //Console.WriteLine("******************************");
+            //Console.WriteLine("");
 
             //Console.WriteLine(++number03);      //degiskenimizin içine yazar
             //Console.WriteLine(number03);
 
-            //Console.WriteLine("******************************");
+            //Console.WriteLine("");
 
             //Console.WriteLine(number03);
             //Console.WriteLine(number03++);
             //Console.WriteLine(number03);
 
-            //Console.WriteLine("******************************");
+            //Console.WriteLine("");
             //int number04 = 5;
             //Console.WriteLine(1 + number04);    //sadece veriye 1 ekledik 
             //Console.WriteLine(++number04);      //degiskene de 1 ekledik 
@@ -226,52 +227,70 @@ namespace HelloWorld
 
                x > 50 && x == 10 
                true && false -> true 
-
+            */
+            /*
                Görev 1 :
-               *Girilen sayı 50 ile 60 arasında olan 5 in katlarından biri veya 3 ün katlarından
+                Girilen sayı 50 ile 60 arasında olan 5 in katlarından biri veya 3 ün katlarından
                 biri ise ekrana true yazdırın değilse false yazdıran uygulamayı yazınız.
+            */
 
-               int x = 55;
+            //int x = 55;
 
-               if ((x > 50 && x < 60) && (x % 5 == 0 || x % 3 == 0)) {
+            //if ((x > 50 && x < 60) && (x % 5 == 0 || x % 3 == 0)) {
 
-                   Console.WriteLine("True");
-               }
-               else 
-                   Console.WriteLine("False");
+            //    Console.WriteLine("True");
+            //}
+            //else 
+            //    Console.WriteLine("False");
 
-               Görev 2 :
-               kullanici adi , email ve sifre degiskenlerimiz olacak. Bunlara baslangicta deger atayın
+            //*/
+
+            /*
+             * Görev 2 :
+               kullanici adi, email ve sifre degiskenlerimiz olacak. Bunlara baslangicta deger atayın
                Sonra kullanicidan isim isteyin. kullanici adi veya email yazilabilir.ikiside kabul edilecek.
                Sonra sifre isteyin.
                kullanici adi veya email adresi dogruysa ve şifresi dogruysa ekranda true yazsın.
+            */
 
+            //string name = "asaf";
+            //string email = "asaf@gmail.com";
+            //string password = "123";
 
-               */
-            string name = "ihsan";
-            string email = "ihsan@gmail.com";
-            string password = "123";
+            //Console.Write("Kullanıcı adi giriniz : ");
+            //string inputName = Console.ReadLine();
 
-            Console.Write("Kullanıcı adi giriniz : ");
-            string inputName = Console.ReadLine();
+            //Console.Write("Email giriniz : ");
+            //string inputEmail = Console.ReadLine();
 
-            Console.Write("Email giriniz : ");
-            string inputEmail = Console.ReadLine();
+            //Console.Write("Şifre giriniz : ");
+            //string inputPassword = Console.ReadLine();
 
-            Console.Write("Şifre giriniz : ");
-            string inputPassword = Console.ReadLine();
-
-            if ((name == inputName || email == inputEmail) && (password == inputPassword)) {
-                Console.WriteLine("True");
-            }
-            else
-                Console.WriteLine("False");
+            //if ((name == inputName || email == inputEmail) && (password == inputPassword))
+            //{
+            //    Console.WriteLine("True");
+            //}
+            //else
+            //    Console.WriteLine("False");
 
             #endregion
 
 
+            // Tip Donusumleri
+            int numberInt = 10;
+            string numberString = numberInt.ToString();
+            // // int number Int 2 = int.Parse(number String);   -> Pars Yöntemi
+            int numberInt2 = Convert.ToInt32(numberString);
+            // ToInt16 = short
+            // ToInt32 = int
+            // ToInt64 = float
+            double numbeDouble = Convert.ToDouble("15");
+            decimal numberDecimal = Convert.ToDecimal("20");
+            Console.Write(numberInt2 * 2);
 
 
-        }
-    }
+
+
+        }
+    }
 }
