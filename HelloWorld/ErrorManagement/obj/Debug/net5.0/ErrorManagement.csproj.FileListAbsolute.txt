@@ -1,0 +1,16 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\bin\Debug\net5.0\ErrorManagement.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\bin\Debug\net5.0\ErrorManagement.deps.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\bin\Debug\net5.0\ErrorManagement.runtimeconfig.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\bin\Debug\net5.0\ErrorManagement.runtimeconfig.dev.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\bin\Debug\net5.0\ErrorManagement.dll
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\bin\Debug\net5.0\ErrorManagement.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.AssemblyInfo.cs
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.sourcelink.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.dll
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\refint\ErrorManagement.dll
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ErrorManagement.genruntimeconfig.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\HelloWorld\ErrorManagement\obj\Debug\net5.0\ref\ErrorManagement.dll
