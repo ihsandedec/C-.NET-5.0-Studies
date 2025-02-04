@@ -196,18 +196,18 @@ namespace HelloWorld
             //Console.WriteLine(number03 + 1);
             //Console.WriteLine(number03);
 
-            //Console.WriteLine("");
+            //Console.WriteLine("******************************");
 
             //Console.WriteLine(++number03);      //degiskenimizin içine yazar
             //Console.WriteLine(number03);
 
-            //Console.WriteLine("");
+            //Console.WriteLine("******************************");
 
             //Console.WriteLine(number03);
             //Console.WriteLine(number03++);
             //Console.WriteLine(number03);
 
-            //Console.WriteLine("");
+            //Console.WriteLine("******************************");
             //int number04 = 5;
             //Console.WriteLine(1 + number04);    //sadece veriye 1 ekledik 
             //Console.WriteLine(++number04);      //degiskene de 1 ekledik 
@@ -276,21 +276,31 @@ namespace HelloWorld
             #endregion
 
 
-            // Tip Donusumleri
-            int numberInt = 10;
-            string numberString = numberInt.ToString();
-            // // int number Int 2 = int.Parse(number String);   -> Pars Yöntemi
-            int numberInt2 = Convert.ToInt32(numberString);
-            // ToInt16 = short
-            // ToInt32 = int
-            // ToInt64 = float
-            double numbeDouble = Convert.ToDouble("15");
-            decimal numberDecimal = Convert.ToDecimal("20");
-            Console.Write(numberInt2 * 2);
+            #region Tip Donusumleri
+            //// Tip Donusumleri
+            //int numberInt = 10;
+            //string numberString = numberInt.ToString();
+            //// // int number Int 2 = int.Parse(number String);   -> Pars Yöntemi
+            //int numberInt2 = Convert.ToInt32(numberString);
+            //// ToInt16 = short
+            //// ToInt32 = int
+            //// ToInt64 = float
+            //double numbeDouble = Convert.ToDouble("15");
+            //decimal numberDecimal = Convert.ToDecimal("20");
+            //Console.Write(numberInt2 * 2); 
+            #endregion
 
 
+            #region Tip Dönüsümleri Örnegi
+            // Konsol üzerinden küçük kenarı ve büyük kenarı girilen bir dikdörtgenin çevresini hesaplayan uygulamayı yazınız
+            Console.Write("küçük kenarı giriniz: ");
+            int kucukKenar = Convert.ToInt32(Console.ReadLine());
+            Console.Write("büyük kenarı giriniz: ");
+            int buyukKenar = Convert.ToInt32(Console.ReadLine());
+            string cevre = ((kucukKenar + buyukKenar) + 2).ToString();
+            Console.Write("Dikdörtgenin çevresi = " + cevre);
 
-
-        }
-    }
+            #endregion
+        }
+    }
 }
