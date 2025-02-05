@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿﻿﻿using System;
 using System.Linq.Expressions;
 
 namespace ErrorManagement
@@ -35,6 +35,16 @@ namespace ErrorManagement
             {
                 Console.Write("Hatalı giriş. Lütfen sayi giriniz ");
             }
+            catch (Exception ex)
+            {
+                Console.Write(ex.Message);
+            }
+            finally 
+            { 
+                Console.WriteLine("Burası son durak ");
+            }
+
+
 
 
         }
