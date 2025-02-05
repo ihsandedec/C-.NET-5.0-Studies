@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\.NET_Core5.0\\DecisionMechanisms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C110DDC5-A87D-4448-82DD-3B12870E348E}|DecisionMechanisms\\DecisionMechanisms.csproj|c:\\users\\ismai\\desktop\\c-.net-core-5.0\\.net_core5.0\\decisionmechanisms\\decisionmechanisms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C110DDC5-A87D-4448-82DD-3B12870E348E}|DecisionMechanisms\\DecisionMechanisms.csproj|solutionrelative:decisionmechanisms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\.NET_Core5.0\\DecisionMechanisms\\DecisionMechanisms\\Program.cs",
+              "RelativeDocumentMoniker": "DecisionMechanisms\\Program.cs",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\.NET_Core5.0\\DecisionMechanisms\\DecisionMechanisms\\Program.cs",
+              "RelativeToolTip": "DecisionMechanisms\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:11:13.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

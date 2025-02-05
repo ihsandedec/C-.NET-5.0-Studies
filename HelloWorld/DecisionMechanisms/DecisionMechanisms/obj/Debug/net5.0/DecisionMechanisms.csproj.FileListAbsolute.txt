@@ -1,0 +1,16 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\bin\Debug\net5.0\DecisionMechanisms.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\bin\Debug\net5.0\DecisionMechanisms.deps.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\bin\Debug\net5.0\DecisionMechanisms.runtimeconfig.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\bin\Debug\net5.0\DecisionMechanisms.runtimeconfig.dev.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\bin\Debug\net5.0\DecisionMechanisms.dll
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\bin\Debug\net5.0\DecisionMechanisms.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.AssemblyInfo.cs
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.sourcelink.json
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.dll
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\refint\DecisionMechanisms.dll
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\DecisionMechanisms.genruntimeconfig.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\.NET_Core5.0\DecisionMechanisms\DecisionMechanisms\obj\Debug\net5.0\ref\DecisionMechanisms.dll
