@@ -1,0 +1,10 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\bin\Debug\WFA.exe.config
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\bin\Debug\WFA.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\bin\Debug\WFA.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.Form1.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.Properties.Resources.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\WFA\WFA\obj\Debug\WFA.pdb
