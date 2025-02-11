@@ -19,3 +19,4 @@ C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\WFA\WFA\obj\Debug\WFA.cs
 C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\WFA\WFA\obj\Debug\WFA.exe
 C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\WFA\WFA\obj\Debug\WFA.pdb
 C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\WFA\WFA\obj\Debug\WFA.Form2.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\WFA\WFA\obj\Debug\WFA.Form3.resources
