@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|solutionrelative:wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|c:\\users\\ismai\\desktop\\c-.net-core-5.0\\windows_form_app\\wfa\\wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|solutionrelative:wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|c:\\users\\ismai\\desktop\\c-.net-core-5.0\\windows_form_app\\wfa\\wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD0BD2E-F01B-4981-AC89-B53AC1A49E41}|WFA\\WFA.csproj|solutionrelative:wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,9 +34,9 @@
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\WFA\\Form3.cs",
               "RelativeDocumentMoniker": "WFA\\Form3.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\WFA\\Form3.cs*",
-              "RelativeToolTip": "WFA\\Form3.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBYAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\WFA\\Form3.cs",
+              "RelativeToolTip": "WFA\\Form3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T18:35:12.071Z",
               "EditorCaption": ""
@@ -47,11 +47,10 @@
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\WFA\\Form3.cs",
               "RelativeDocumentMoniker": "WFA\\Form3.cs",
-              "ToolTip": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\WFA\\Form3.cs [Design]*",
-              "RelativeToolTip": "WFA\\Form3.cs [Design]*",
+              "ToolTip": "C:\\Users\\ismai\\Desktop\\C-.NET-Core-5.0\\Windows_Form_App\\WFA\\WFA\\Form3.cs [Design]",
+              "RelativeToolTip": "WFA\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:34:39.303Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-11T18:34:39.303Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "WFA\\Form2.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIAwwBYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:57:42.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:57:42.693Z"
             },
             {
               "$type": "Document",
