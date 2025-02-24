@@ -1,0 +1,10 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\bin\Debug\escapeCharacter.exe.config
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\bin\Debug\escapeCharacter.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\bin\Debug\escapeCharacter.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.Form1.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.Properties.Resources.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows Form App\escapeCharacter\escapeCharacter\obj\Debug\escapeCharacter.pdb
