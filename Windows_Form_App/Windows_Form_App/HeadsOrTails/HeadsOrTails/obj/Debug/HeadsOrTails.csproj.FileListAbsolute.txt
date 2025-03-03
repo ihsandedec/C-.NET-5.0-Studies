@@ -1,0 +1,10 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Form1.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb
