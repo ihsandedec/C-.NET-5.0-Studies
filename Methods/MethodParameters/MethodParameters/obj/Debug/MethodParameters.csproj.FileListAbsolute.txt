@@ -1,0 +1,10 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\bin\Debug\MethodParameters.exe.config
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\bin\Debug\MethodParameters.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\bin\Debug\MethodParameters.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.Form1.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.Properties.Resources.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodParameters\MethodParameters\obj\Debug\MethodParameters.pdb
