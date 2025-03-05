@@ -1,0 +1,10 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\bin\Debug\MethodsThatReturnValues.exe.config
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\bin\Debug\MethodsThatReturnValues.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\bin\Debug\MethodsThatReturnValues.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.Form1.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.Properties.Resources.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Methods\MethodsThatReturnValues\MethodsThatReturnValues\obj\Debug\MethodsThatReturnValues.pdb
