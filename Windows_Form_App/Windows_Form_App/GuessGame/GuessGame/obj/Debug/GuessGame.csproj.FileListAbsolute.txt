@@ -1,0 +1,10 @@
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.Form1.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.Properties.Resources.resources
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\ismai\Desktop\C-.NET-Core-5.0\Windows_Form_App\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
