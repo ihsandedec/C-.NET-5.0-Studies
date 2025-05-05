@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
@@ -23,7 +24,16 @@ namespace basics.Controllers
 
           public IActionResult List()
         {
-            return View();
+            var kurslar = new List<Course>()
+            {
+                new Course() { ID =1,Title= "Aspnet calismalarim", Description = "iyi giden Aspnet calisma "},
+                new Course() { ID =2,Title= "Django calismalarim", Description = "iyi giden Django calisma "},
+                new Course() { ID =3,Title= "Java calismalarim", Description = "iyi giden Java calisma "},
+
+            };
+            
+
+            return View("List",kurslar);
         }
     }
 }

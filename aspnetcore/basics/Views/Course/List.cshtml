@@ -1,3 +1,5 @@
+@model List<Course>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,5 +9,16 @@
 </head>
 <body>
     <h1>Course List</h1>
+    @Model[0].Title <br>
+    @Model[1].Title
+
+    @foreach(var kurslar in Model)
+    {
+        <div id="kurslar_@kurslar.ID">
+            <h2>@kurslar.Title</h2>
+            <p>@kurslar.Description</p>
+        </div>
+    }
+    
 </body>
 </html>
