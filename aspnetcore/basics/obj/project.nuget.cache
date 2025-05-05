@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63BABLlVy3p9xlqz6xJHlH5fzYUpRce3/2ciEk/Ukz/KSd/lYLWch42o/31uM8VZ/9AQ2BPs1dubnWVfM4AEjQ==",
+  "dgSpecHash": "OkyBKkPizmK+XH80UsFt9Kmgdr6fK63kWEma44YG7liQ4WdMRp1306XsLVAa+ESyzeDpSGo/iJR/Kk47rkXHAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismai\\Desktop\\Dersler\\aspnetcore\\basics\\basics.csproj",
+  "projectFilePath": "C:\\Users\\ismai\\Desktop\\Dersler\\C-.NET-Core-5.0\\aspnetcore\\basics\\basics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
