@@ -26,9 +26,9 @@ namespace basics.Controllers
         {
             var kurslar = new List<Course>()
             {
-                new Course() { ID =1,Title= "Aspnet calismalarim", Description = "iyi giden Aspnet calisma "},
-                new Course() { ID =2,Title= "Django calismalarim", Description = "iyi giden Django calisma "},
-                new Course() { ID =3,Title= "Java calismalarim", Description = "iyi giden Java calisma "},
+                new Course() { ID =1,Title= "Aspnet calismalarim", Description = "iyi giden Aspnet calisma ", Image="1.jpg" },
+                new Course() { ID =2,Title= "Django calismalarim", Description = "iyi giden Django calisma ", Image="2.webp"},
+                new Course() { ID =3,Title= "Java calismalarim", Description = "iyi giden Java calisma ", Image="3.webp"},
 
             };
             
