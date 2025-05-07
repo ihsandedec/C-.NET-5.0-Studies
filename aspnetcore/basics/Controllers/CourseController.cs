@@ -18,6 +18,8 @@ namespace basics.Controllers
             var kurs = new Course();
             kurs.ID = 1;
             kurs.Title = "Aspnet calismalarim";
+            kurs.Description = "Güzel giden calisma";
+            kurs.Image ="1.jpg";
             return View(kurs);
 
         }
@@ -35,5 +37,6 @@ namespace basics.Controllers
 
             return View("List",kurslar);
         }
+        
     }
 }
