@@ -1,54 +1,17 @@
 @model List<Course>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.0/css/bootstrap.min.css" integrity="sha512-F7WyTLiiiPqvu2pGumDR15med0MDkUIo5VTVyyfECR5DZmCnDhti9q5VID02ItWjq6fvDfMaBaDl2J3WdL1uxA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Document</title>
-</head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
-            <div class="container">
-                <a class="navbar-brand" href="#">CourseApp</a>
-                <ul class="navbar-nav me-auto">
-                    <li class="nav-item">
-                        <a href="#" class="nav-link">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link">Kurslar</a>
-                    </li>
-
-                </ul>
+@foreach(var kurslar in Model)
+{
+    <div class="card mb-3" id="kurslar_@kurslar.ID">
+        <div class="row">
+            <div class="col-md-4">
+                    <img src="~/img/@kurslar.Image" class="img-fluid rounded-start" alt="">
             </div>
-
-        </nav>
-    </header>
-    <div class="container mt-3">
-        <main>
-            @foreach(var kurslar in Model)
-            {
-                <div class="card mb-3" id="kurslar_@kurslar.ID">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="~/img/@kurslar.Image" class="img-fluid rounded-start" alt="">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">@kurslar.Title</h5>
-                                <p class="card-text">@kurslar.Description</p>    
-                            </div>
-                        </div>    
-                    </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">@kurslar.Title</h5>
+                    <p class="card-text">@kurslar.Description</p>    
                 </div>
-            }
-        </main>
+            </div>    
+        </div>
     </div>
-
-
-    
-    
-</body>
-</html>
+}

@@ -15,7 +15,7 @@ namespace basics.Controllers
     {
         public IActionResult Index()
         {
-            var kurs = new Course();
+            var kurs = new Course();    
             kurs.ID = 1;
             kurs.Title = "Aspnet calismalarim";
             kurs.Description = "Güzel giden calisma";
